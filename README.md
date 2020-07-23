@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 // 把模板下载到本地
 cd vue-manage-system    // 进入模板目录
@@ -10,3 +11,6 @@ npm run serve
 npm run build
 ```
 
+=======
+# new-manager-portal
+>>>>>>> 80765cffe4ddb5702867f853abbec30c5be226b0
